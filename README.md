@@ -1,6 +1,6 @@
 # Video-Player-Project
 
-Screenshot of My Project :-
+<h2>Screenshot's of My Project :-</h2>
 
 <img src="/doc/img.png" alt="My cool project"/>
 
